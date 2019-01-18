@@ -1,7 +1,7 @@
 # Chapter 6: The Generalization Instinct
 
 ## Summary
-**Factfulness is ... recognizing when a category is being used in an explanation**, and remembering that categories can be misleading, We can't stop generalization and we shouldn't even try. What we should try to do is to avoid generalizing incorrectly. To control the generalization instinct, **question your categories**.
+**Factfulness is ... recognizing when a category is being used in an explanation**, and remembering that categories can be misleading. We can't stop generalization and we shouldn't even try. What we should try to do is to avoid generalizing incorrectly. To control the generalization instinct, **question your categories**.
 
 - **Look for differences *within* groups**. Especially when the groups are large, look for ways to split them into smaller, more precise categories. **And...**
 - **Look for similarities *across* groups**. If you find striking similarities between different groups, consider whether your categories are relevant. **But also...**
